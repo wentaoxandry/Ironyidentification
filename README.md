@@ -6,7 +6,7 @@ Implementation of our Profiling Irony and Stereotype Spreaders on Twitter (IROST
 
 # Cite as 
 
-```
+<!---```
 @misc{https://doi.org/10.48550/arxiv.2204.03953,
   url = {https://arxiv.org/abs/2204.03953},
   author = {Yu, Wentao and Boenninghoff, Benedikt and Roehrig, Jonas and Kolossa, Dorothea},  
@@ -15,4 +15,4 @@ Implementation of our Profiling Irony and Stereotype Spreaders on Twitter (IROST
   year = {2022}
 }
 
-```
+```--->
