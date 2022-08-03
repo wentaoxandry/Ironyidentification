@@ -3,10 +3,10 @@ Implementation of our Profiling Irony and Stereotype Spreaders on Twitter (IROST
 
 ### How to run the code
 * Please follow ./run.sh download all necessary dataset and run the code.
-
+<!---```
 # Cite as 
 
-<!---```
+
 @misc{https://doi.org/10.48550/arxiv.2204.03953,
   url = {https://arxiv.org/abs/2204.03953},
   author = {Yu, Wentao and Boenninghoff, Benedikt and Roehrig, Jonas and Kolossa, Dorothea},  
