@@ -4,6 +4,9 @@ Implementation of our Profiling Irony and Stereotype Spreaders on Twitter (IROST
 ### How to run the code
 * Please follow ./run.sh download all necessary dataset and run the code.
 
+# Acknowledgement 
+The work was supported by the PhD School ”SecHuman - Security for Humans in Cyberspace” by the federal state of NRW, and partially funded by the Deutsche Forschungsgemeinschaft (DFG–German Research Foundation) [Project-ID 429873205] and by the German Federal Ministry of Education and Research [Grant No: 16KIS1518K]. 
+
 # Cite as 
 @article{yu2022bert,
   title={BERT-based ironic authors profiling},
